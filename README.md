@@ -1,4 +1,4 @@
 # Hackerrank-Problems
 Solved Hackerrank Problems
 
-<h3>Open as Java Project
+<h3>Open as a Java Project
